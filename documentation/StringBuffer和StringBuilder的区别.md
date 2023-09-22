@@ -4,7 +4,7 @@
 
 1、都继承了AbstractStringBuilder抽象类，实现了CharSequence和Appendable接口。
 
-![image-20230627100411638](..\pictures\StringBuffer和StringBuilder.png)
+![image-20230627100411638](/pictures/StringBuffer和StringBuilder.png)
 
 2、append方法都是super.append(str),调用了父类AbstractStringBuilder的append(String str)方法。
 
