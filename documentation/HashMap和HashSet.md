@@ -4,7 +4,7 @@
 
 HashMap是一个散列表，它的存储内容是键值对(key-value)的映射。
 
-![image-20230629161748720](..\pictures\HashMap.png)
+![image-20230629161748720](/pictures/HashMap.png)
 
 - HashMap是Map接口中使用频率最高的实现类
 - HashMap是线程不安全的。允许添加null键和null值。
